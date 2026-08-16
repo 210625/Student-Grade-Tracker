@@ -91,4 +91,3 @@ This project demonstrates practical implementation of:
 
 ## Author
 Navya Sagili
-Developed as a Core Java project for learning and practicing Object-Oriented Programming.
